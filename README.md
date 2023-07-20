@@ -16,9 +16,9 @@ git clone https://github.com/rmarinleal/paycomet.git
 ```
 Start the containers with the docker-compose file
 ```bash
-docker-compose up -d
+docker-compose up -d --build
 ```
-Once al environments are up create the vendors using composer
+Once all environments are up create the vendors using composer
 ```bash
 docker exec php composer install
 ```
