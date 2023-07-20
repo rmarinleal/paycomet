@@ -5,7 +5,9 @@ Here you can find a full docker environment to perform the requested opperations
 ## Requirements
 
 Docker installed
+
 Docker-compose installed
+
 Git installed
 
 ## Installation
